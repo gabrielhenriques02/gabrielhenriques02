@@ -1,12 +1,11 @@
-# Hi, I'm Gabriel Henriques! 👋
+# Hi, I'm Gabriel Henriques! 
 
+### 🎓 High School @ IFES - Vitória
 ### 🎓 Computer Engineering Student @ UFES
-*Aspiring Software Engineer & Data Analyst*
 
----
+*"Don't wish it were easier, wish you were better"*
+
+-----
 
 ### 🚀 About Me
-I am a **Computer Engineering** student with a solid academic foundation in Mathematics and Physics, currently focusing on building expertise in **Programming** and **Data Analysis**. I enjoy transforming complex problems into efficient code and meaningful insights.
-
-* 🔭 **Currently exploring:** Advanced Python, Data Science libraries, and OOP.
-* 📚 **Academic focus:** Applying Engineering principles to Software Development.
+I am a **computer engineering** student with a strong aptitude for mathematics and physics. I currently work as a **teacher and educational assistant** at @MADAN, though my primary academic focus is on **Data Analysis and AI**.
