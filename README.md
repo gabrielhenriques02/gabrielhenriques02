@@ -3,7 +3,7 @@
 ### 🎓 High School @ Federal Institute of Espirito Santo - Vitória (IFES)
 ### 🎓 Computer Engineering Student @ Federal University of Espirito Santo (UFES)
 
-*"Don't wish it were easier, wish you were better"*
+*"There are no short cuts to any place worth going"*
 
 -----
 
