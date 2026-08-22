@@ -9,3 +9,5 @@
 
 ### 🚀 About Me
 I am a **computer engineering** student with a strong aptitude for mathematics and physics. I currently work as a **teacher and educational assistant** at @MADAN, though my primary academic focus is on **Data Analysis and AI**.
+
+### Check out some of my projects!
