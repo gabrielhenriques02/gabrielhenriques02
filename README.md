@@ -1,7 +1,7 @@
 # Hi, I'm Gabriel Henriques! 
 
 ### 🎓 High School @ IFES - Vitória
-### 🎓 Computer Engineering Student @ UFES
+### 🎓 Computer Engineering Student @ Federal University of Espirito Santo (UFES)
 
 *"Don't wish it were easier, wish you were better"*
 
